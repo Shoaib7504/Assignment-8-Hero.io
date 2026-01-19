@@ -3,11 +3,12 @@ import playstore from '../../assets/Playstore.png'
 import Appstore from '../../assets/Applestore.png'
 import Hero from '../../assets/hero.png'
 import { NavLink, useLoaderData } from 'react-router';
+import HomeCards from './HomeCards';
 const Home = () => {
 
-    const apps =useLoaderData()
+    const apps = useLoaderData()
     console.log(apps);
-    
+
     return (
         <div className=''>
             <div>
@@ -15,7 +16,7 @@ const Home = () => {
                 <p className='text-center text-[#627382] text-[20px]'>AtHERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br />Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
                 <div className='flex justify-center gap-x-30 mt-10'>
                     <NavLink to='https://play.google.com/store/apps?hl=en'> <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl"><span><img src={playstore} alt="" /></span>Google Play</button></NavLink>
-                   <NavLink to='https://www.apple.com/app-store/'>  <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl"><span><img src={Appstore} alt="" /></span>App Store</button></NavLink>
+                    <NavLink to='https://www.apple.com/app-store/'>  <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg xl:btn-xl"><span><img src={Appstore} alt="" /></span>App Store</button></NavLink>
                 </div>
             </div>
 
@@ -26,7 +27,7 @@ const Home = () => {
 
             {/* Banner section */}
 
-            <div className='h-[420px] w- border-4 border-red-500 bg-gradient-to-r from-[#632ee3] to-[#9f62f2]'>
+            <div className='h-[420px]   bg-gradient-to-r from-[#632ee3] to-[#9f62f2]'>
                 <h1 className='font-bold md:text-[48px] text-white text-center mt-3.5'>Trusted by Millions, Built for You</h1>
 
 
@@ -61,6 +62,21 @@ const Home = () => {
             <div className='justify-items-center mt-[50px]'>
                 <h1 className='font-bold text-4xl'>Trending Apps</h1>
                 <p className='text[#627382] mt-1.5'>Explore All Trending Apps on the Market developed by us</p>
+
+                <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4'>
+
+                    { 
+                        apps.map( app=> <HomeCards key={app.id} app={app}></HomeCards> )
+                    }
+
+                </div>
+
+
+
+               <div className='justify-items-center mx-auto'>
+                 <NavLink to='/apps'><button className='w-[145px] h-[48px] mt-10 my-10 rounded-xl bg-gradient-to-r from-[#632ee3] to-[#9f62f2] text-xl text-white'> Show All</button></NavLink>
+               </div>
+
             </div>
 
         </div>
