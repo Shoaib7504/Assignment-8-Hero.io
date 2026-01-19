@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.text-decoration{
+    text-decoration: underline;
+}
+
+
+li .a.active{
+    text-decoration: underline;
+}

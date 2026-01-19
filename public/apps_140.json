@@ -1,0 +1,4622 @@
+[
+  {
+    "image": "https://picsum.photos/200?random=1",
+    "title": "NovaChat",
+    "companyName": "Edu Inc.",
+    "id": 1,
+    "description": "NovaChat is a fitness app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 206,
+    "reviews": 4082,
+    "ratingAvg": 4.43,
+    "downloads": 1739583,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 11
+      },
+      {
+        "name": "2 star",
+        "count": 153
+      },
+      {
+        "name": "3 star",
+        "count": 72
+      },
+      {
+        "name": "4 star",
+        "count": 1686
+      },
+      {
+        "name": "5 star",
+        "count": 2160
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=2",
+    "title": "GrooveGarden",
+    "companyName": "Wander Studios",
+    "id": 2,
+    "description": "GrooveGarden is a design app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 41,
+    "reviews": 47082,
+    "ratingAvg": 3.97,
+    "downloads": 6394122,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1998
+      },
+      {
+        "name": "2 star",
+        "count": 8685
+      },
+      {
+        "name": "3 star",
+        "count": 4251
+      },
+      {
+        "name": "4 star",
+        "count": 6171
+      },
+      {
+        "name": "5 star",
+        "count": 25977
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=3",
+    "title": "PixelTrack Pro",
+    "companyName": "Edu Works",
+    "id": 3,
+    "description": "PixelTrack Pro is a design app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 236,
+    "reviews": 12380,
+    "ratingAvg": 4.12,
+    "downloads": 3925582,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 468
+      },
+      {
+        "name": "2 star",
+        "count": 790
+      },
+      {
+        "name": "3 star",
+        "count": 993
+      },
+      {
+        "name": "4 star",
+        "count": 4634
+      },
+      {
+        "name": "5 star",
+        "count": 5495
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=4",
+    "title": "UrbanLearn",
+    "companyName": "Trail Inc.",
+    "id": 4,
+    "description": "UrbanLearn is a security app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 101,
+    "reviews": 25099,
+    "ratingAvg": 3.97,
+    "downloads": 14160708,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2217
+      },
+      {
+        "name": "2 star",
+        "count": 1160
+      },
+      {
+        "name": "3 star",
+        "count": 4356
+      },
+      {
+        "name": "4 star",
+        "count": 4740
+      },
+      {
+        "name": "5 star",
+        "count": 12626
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=5",
+    "title": "TrailPulse",
+    "companyName": "Forge Interactive",
+    "id": 5,
+    "description": "TrailPulse is a photo app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 120,
+    "reviews": 19279,
+    "ratingAvg": 3.9,
+    "downloads": 6093292,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2414
+      },
+      {
+        "name": "2 star",
+        "count": 345
+      },
+      {
+        "name": "3 star",
+        "count": 3518
+      },
+      {
+        "name": "4 star",
+        "count": 3534
+      },
+      {
+        "name": "5 star",
+        "count": 9468
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=6",
+    "title": "NovaPulse",
+    "companyName": "Prime Co.",
+    "id": 6,
+    "description": "NovaPulse is a wellness app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 129,
+    "reviews": 36522,
+    "ratingAvg": 3.39,
+    "downloads": 2673446,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6599
+      },
+      {
+        "name": "2 star",
+        "count": 5927
+      },
+      {
+        "name": "3 star",
+        "count": 889
+      },
+      {
+        "name": "4 star",
+        "count": 12791
+      },
+      {
+        "name": "5 star",
+        "count": 10316
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=7",
+    "title": "CozyChat",
+    "companyName": "Sound Labs",
+    "id": 7,
+    "description": "CozyChat is a design app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 110,
+    "reviews": 76364,
+    "ratingAvg": 3.74,
+    "downloads": 14762506,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 17293
+      },
+      {
+        "name": "2 star",
+        "count": 955
+      },
+      {
+        "name": "3 star",
+        "count": 2115
+      },
+      {
+        "name": "4 star",
+        "count": 19795
+      },
+      {
+        "name": "5 star",
+        "count": 36206
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=8",
+    "title": "TrailTask",
+    "companyName": "Blue Studios",
+    "id": 8,
+    "description": "TrailTask is a education app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 248,
+    "reviews": 31451,
+    "ratingAvg": 4.57,
+    "downloads": 8703481,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 174
+      },
+      {
+        "name": "2 star",
+        "count": 123
+      },
+      {
+        "name": "3 star",
+        "count": 3050
+      },
+      {
+        "name": "4 star",
+        "count": 6230
+      },
+      {
+        "name": "5 star",
+        "count": 21874
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=9",
+    "title": "NimbleNotes Pro",
+    "companyName": "Nova Interactive",
+    "id": 9,
+    "description": "NimbleNotes Pro is a productivity app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 126,
+    "reviews": 46473,
+    "ratingAvg": 4.25,
+    "downloads": 6917151,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4336
+      },
+      {
+        "name": "2 star",
+        "count": 548
+      },
+      {
+        "name": "3 star",
+        "count": 5297
+      },
+      {
+        "name": "4 star",
+        "count": 5116
+      },
+      {
+        "name": "5 star",
+        "count": 31176
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=10",
+    "title": "TrailChat",
+    "companyName": "Edu Ltd.",
+    "id": 10,
+    "description": "TrailChat is a travel app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 142,
+    "reviews": 22931,
+    "ratingAvg": 3.81,
+    "downloads": 8095854,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2672
+      },
+      {
+        "name": "2 star",
+        "count": 946
+      },
+      {
+        "name": "3 star",
+        "count": 3461
+      },
+      {
+        "name": "4 star",
+        "count": 6792
+      },
+      {
+        "name": "5 star",
+        "count": 9060
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=11",
+    "title": "MaplePulse Pro",
+    "companyName": "Prime Labs",
+    "id": 11,
+    "description": "MaplePulse Pro is a messaging app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 167,
+    "reviews": 68562,
+    "ratingAvg": 4.21,
+    "downloads": 8019183,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 530
+      },
+      {
+        "name": "2 star",
+        "count": 2185
+      },
+      {
+        "name": "3 star",
+        "count": 17982
+      },
+      {
+        "name": "4 star",
+        "count": 9841
+      },
+      {
+        "name": "5 star",
+        "count": 38024
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=12",
+    "title": "MapleSketch",
+    "companyName": "Bright Inc.",
+    "id": 12,
+    "description": "MapleSketch is a security app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 201,
+    "reviews": 19154,
+    "ratingAvg": 4.46,
+    "downloads": 5291130,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1007
+      },
+      {
+        "name": "2 star",
+        "count": 530
+      },
+      {
+        "name": "3 star",
+        "count": 1467
+      },
+      {
+        "name": "4 star",
+        "count": 1857
+      },
+      {
+        "name": "5 star",
+        "count": 14293
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=13",
+    "title": "ZenMind",
+    "companyName": "Trail Works",
+    "id": 13,
+    "description": "ZenMind is a photo app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 224,
+    "reviews": 11429,
+    "ratingAvg": 4.45,
+    "downloads": 10991901,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 89
+      },
+      {
+        "name": "2 star",
+        "count": 233
+      },
+      {
+        "name": "3 star",
+        "count": 645
+      },
+      {
+        "name": "4 star",
+        "count": 3924
+      },
+      {
+        "name": "5 star",
+        "count": 6538
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=14",
+    "title": "GrooveLearn Pro",
+    "companyName": "Prime Ltd.",
+    "id": 14,
+    "description": "GrooveLearn Pro is a security app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 85,
+    "reviews": 58057,
+    "ratingAvg": 4.19,
+    "downloads": 2730895,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3577
+      },
+      {
+        "name": "2 star",
+        "count": 905
+      },
+      {
+        "name": "3 star",
+        "count": 12887
+      },
+      {
+        "name": "4 star",
+        "count": 3976
+      },
+      {
+        "name": "5 star",
+        "count": 36712
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=15",
+    "title": "VividStudio",
+    "companyName": "Wander Inc.",
+    "id": 15,
+    "description": "VividStudio is a security app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 44,
+    "reviews": 17209,
+    "ratingAvg": 4.37,
+    "downloads": 5953742,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1548
+      },
+      {
+        "name": "2 star",
+        "count": 336
+      },
+      {
+        "name": "3 star",
+        "count": 776
+      },
+      {
+        "name": "4 star",
+        "count": 2103
+      },
+      {
+        "name": "5 star",
+        "count": 12446
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=16",
+    "title": "SmartScape",
+    "companyName": "Artify Solutions",
+    "id": 16,
+    "description": "SmartScape is a music app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 69,
+    "reviews": 31831,
+    "ratingAvg": 4.12,
+    "downloads": 13720049,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 467
+      },
+      {
+        "name": "2 star",
+        "count": 3889
+      },
+      {
+        "name": "3 star",
+        "count": 1846
+      },
+      {
+        "name": "4 star",
+        "count": 10686
+      },
+      {
+        "name": "5 star",
+        "count": 14943
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=17",
+    "title": "NovaLearn Pro",
+    "companyName": "Bright Labs",
+    "id": 17,
+    "description": "NovaLearn Pro is a design app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 170,
+    "reviews": 11011,
+    "ratingAvg": 4.33,
+    "downloads": 7310770,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 715
+      },
+      {
+        "name": "2 star",
+        "count": 807
+      },
+      {
+        "name": "3 star",
+        "count": 923
+      },
+      {
+        "name": "4 star",
+        "count": 258
+      },
+      {
+        "name": "5 star",
+        "count": 8308
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=18",
+    "title": "GrooveTrack",
+    "companyName": "Prime Systems",
+    "id": 18,
+    "description": "GrooveTrack is a productivity app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 187,
+    "reviews": 56263,
+    "ratingAvg": 4.62,
+    "downloads": 14247335,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 991
+      },
+      {
+        "name": "2 star",
+        "count": 1689
+      },
+      {
+        "name": "3 star",
+        "count": 3908
+      },
+      {
+        "name": "4 star",
+        "count": 4426
+      },
+      {
+        "name": "5 star",
+        "count": 45249
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=19",
+    "title": "MapleVault",
+    "companyName": "Connect Works",
+    "id": 19,
+    "description": "MapleVault is a wellness app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 71,
+    "reviews": 59954,
+    "ratingAvg": 3.71,
+    "downloads": 7232326,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4771
+      },
+      {
+        "name": "2 star",
+        "count": 5281
+      },
+      {
+        "name": "3 star",
+        "count": 11472
+      },
+      {
+        "name": "4 star",
+        "count": 19580
+      },
+      {
+        "name": "5 star",
+        "count": 18850
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=20",
+    "title": "ZenTravel",
+    "companyName": "Serenity Labs",
+    "id": 20,
+    "description": "ZenTravel is a messaging app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 80,
+    "reviews": 77454,
+    "ratingAvg": 4.31,
+    "downloads": 7991465,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1125
+      },
+      {
+        "name": "2 star",
+        "count": 12598
+      },
+      {
+        "name": "3 star",
+        "count": 4646
+      },
+      {
+        "name": "4 star",
+        "count": 2190
+      },
+      {
+        "name": "5 star",
+        "count": 56895
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=21",
+    "title": "SmartFit",
+    "companyName": "Trail Inc.",
+    "id": 21,
+    "description": "SmartFit is a design app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 134,
+    "reviews": 6706,
+    "ratingAvg": 3.93,
+    "downloads": 2257058,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 740
+      },
+      {
+        "name": "2 star",
+        "count": 589
+      },
+      {
+        "name": "3 star",
+        "count": 607
+      },
+      {
+        "name": "4 star",
+        "count": 1261
+      },
+      {
+        "name": "5 star",
+        "count": 3509
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=22",
+    "title": "FlowFit",
+    "companyName": "Edu Works",
+    "id": 22,
+    "description": "FlowFit is a education app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 37,
+    "reviews": 46020,
+    "ratingAvg": 4.2,
+    "downloads": 11991296,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1369
+      },
+      {
+        "name": "2 star",
+        "count": 4887
+      },
+      {
+        "name": "3 star",
+        "count": 3038
+      },
+      {
+        "name": "4 star",
+        "count": 10680
+      },
+      {
+        "name": "5 star",
+        "count": 26046
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=23",
+    "title": "MapleChat",
+    "companyName": "Forge Interactive",
+    "id": 23,
+    "description": "MapleChat is a education app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 19,
+    "reviews": 73582,
+    "ratingAvg": 4.23,
+    "downloads": 5921533,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5402
+      },
+      {
+        "name": "2 star",
+        "count": 1760
+      },
+      {
+        "name": "3 star",
+        "count": 4566
+      },
+      {
+        "name": "4 star",
+        "count": 20598
+      },
+      {
+        "name": "5 star",
+        "count": 41256
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=24",
+    "title": "MapleSketch",
+    "companyName": "HealthSync Interactive",
+    "id": 24,
+    "description": "MapleSketch is a fitness app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 239,
+    "reviews": 51689,
+    "ratingAvg": 4.42,
+    "downloads": 7766014,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1565
+      },
+      {
+        "name": "2 star",
+        "count": 4062
+      },
+      {
+        "name": "3 star",
+        "count": 1410
+      },
+      {
+        "name": "4 star",
+        "count": 8769
+      },
+      {
+        "name": "5 star",
+        "count": 35883
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=25",
+    "title": "NovaSketch",
+    "companyName": "Pixel Works",
+    "id": 25,
+    "description": "NovaSketch is a productivity app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 60,
+    "reviews": 12250,
+    "ratingAvg": 4.21,
+    "downloads": 10185192,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 187
+      },
+      {
+        "name": "2 star",
+        "count": 642
+      },
+      {
+        "name": "3 star",
+        "count": 2375
+      },
+      {
+        "name": "4 star",
+        "count": 2304
+      },
+      {
+        "name": "5 star",
+        "count": 6742
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=26",
+    "title": "BrightHelper",
+    "companyName": "Cloud Co.",
+    "id": 26,
+    "description": "BrightHelper is a finance app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 183,
+    "reviews": 8411,
+    "ratingAvg": 4.11,
+    "downloads": 5744909,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 731
+      },
+      {
+        "name": "2 star",
+        "count": 83
+      },
+      {
+        "name": "3 star",
+        "count": 1075
+      },
+      {
+        "name": "4 star",
+        "count": 2123
+      },
+      {
+        "name": "5 star",
+        "count": 4399
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=27",
+    "title": "TrailMarket",
+    "companyName": "Forge Works",
+    "id": 27,
+    "description": "TrailMarket is a productivity app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 236,
+    "reviews": 62910,
+    "ratingAvg": 3.82,
+    "downloads": 4138725,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3709
+      },
+      {
+        "name": "2 star",
+        "count": 9533
+      },
+      {
+        "name": "3 star",
+        "count": 7803
+      },
+      {
+        "name": "4 star",
+        "count": 15078
+      },
+      {
+        "name": "5 star",
+        "count": 26787
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=28",
+    "title": "QuickFit",
+    "companyName": "HealthSync Inc.",
+    "id": 28,
+    "description": "QuickFit is a navigation app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 122,
+    "reviews": 17484,
+    "ratingAvg": 4.17,
+    "downloads": 8216976,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1119
+      },
+      {
+        "name": "2 star",
+        "count": 1254
+      },
+      {
+        "name": "3 star",
+        "count": 473
+      },
+      {
+        "name": "4 star",
+        "count": 5249
+      },
+      {
+        "name": "5 star",
+        "count": 9389
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=29",
+    "title": "TrailGarden",
+    "companyName": "Pixel Works",
+    "id": 29,
+    "description": "TrailGarden is a wellness app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 82,
+    "reviews": 11566,
+    "ratingAvg": 3.62,
+    "downloads": 3887786,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1605
+      },
+      {
+        "name": "2 star",
+        "count": 1258
+      },
+      {
+        "name": "3 star",
+        "count": 1826
+      },
+      {
+        "name": "4 star",
+        "count": 2162
+      },
+      {
+        "name": "5 star",
+        "count": 4715
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=30",
+    "title": "SoundHelper Pro",
+    "companyName": "Connect Collective",
+    "id": 30,
+    "description": "SoundHelper Pro is a fitness app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 88,
+    "reviews": 2311,
+    "ratingAvg": 4.3,
+    "downloads": 783626,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 157
+      },
+      {
+        "name": "2 star",
+        "count": 210
+      },
+      {
+        "name": "3 star",
+        "count": 73
+      },
+      {
+        "name": "4 star",
+        "count": 211
+      },
+      {
+        "name": "5 star",
+        "count": 1660
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=31",
+    "title": "TrailNotes",
+    "companyName": "Summit Inc.",
+    "id": 31,
+    "description": "TrailNotes is a finance app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 115,
+    "reviews": 24289,
+    "ratingAvg": 3.72,
+    "downloads": 7578378,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1568
+      },
+      {
+        "name": "2 star",
+        "count": 4843
+      },
+      {
+        "name": "3 star",
+        "count": 1308
+      },
+      {
+        "name": "4 star",
+        "count": 7654
+      },
+      {
+        "name": "5 star",
+        "count": 8916
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=32",
+    "title": "EpicDesk",
+    "companyName": "Artify Inc.",
+    "id": 32,
+    "description": "EpicDesk is a wellness app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 198,
+    "reviews": 32595,
+    "ratingAvg": 3.61,
+    "downloads": 4763227,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3925
+      },
+      {
+        "name": "2 star",
+        "count": 5541
+      },
+      {
+        "name": "3 star",
+        "count": 4152
+      },
+      {
+        "name": "4 star",
+        "count": 4715
+      },
+      {
+        "name": "5 star",
+        "count": 14262
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=33",
+    "title": "BrightMind",
+    "companyName": "Summit Systems",
+    "id": 33,
+    "description": "BrightMind is a wellness app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 130,
+    "reviews": 3507,
+    "ratingAvg": 3.97,
+    "downloads": 2106308,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 267
+      },
+      {
+        "name": "2 star",
+        "count": 452
+      },
+      {
+        "name": "3 star",
+        "count": 96
+      },
+      {
+        "name": "4 star",
+        "count": 993
+      },
+      {
+        "name": "5 star",
+        "count": 1699
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=34",
+    "title": "FlowSketch Pro",
+    "companyName": "Boostify Solutions",
+    "id": 34,
+    "description": "FlowSketch Pro is a finance app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 184,
+    "reviews": 78720,
+    "ratingAvg": 3.54,
+    "downloads": 7439378,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3168
+      },
+      {
+        "name": "2 star",
+        "count": 23151
+      },
+      {
+        "name": "3 star",
+        "count": 9244
+      },
+      {
+        "name": "4 star",
+        "count": 14264
+      },
+      {
+        "name": "5 star",
+        "count": 28893
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=35",
+    "title": "UrbanPulse Pro",
+    "companyName": "HealthSync Studios",
+    "id": 35,
+    "description": "UrbanPulse Pro is a wellness app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 100,
+    "reviews": 6877,
+    "ratingAvg": 4.02,
+    "downloads": 1964841,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 418
+      },
+      {
+        "name": "2 star",
+        "count": 476
+      },
+      {
+        "name": "3 star",
+        "count": 676
+      },
+      {
+        "name": "4 star",
+        "count": 2304
+      },
+      {
+        "name": "5 star",
+        "count": 3003
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=36",
+    "title": "NimbleScape Pro",
+    "companyName": "Summit Inc.",
+    "id": 36,
+    "description": "NimbleScape Pro is a navigation app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 58,
+    "reviews": 14217,
+    "ratingAvg": 4.44,
+    "downloads": 5233522,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 292
+      },
+      {
+        "name": "2 star",
+        "count": 326
+      },
+      {
+        "name": "3 star",
+        "count": 1191
+      },
+      {
+        "name": "4 star",
+        "count": 3492
+      },
+      {
+        "name": "5 star",
+        "count": 8916
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=37",
+    "title": "PixelDesk",
+    "companyName": "Serenity Co.",
+    "id": 37,
+    "description": "PixelDesk is a wellness app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 215,
+    "reviews": 40565,
+    "ratingAvg": 4.44,
+    "downloads": 13274104,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1071
+      },
+      {
+        "name": "2 star",
+        "count": 1879
+      },
+      {
+        "name": "3 star",
+        "count": 1965
+      },
+      {
+        "name": "4 star",
+        "count": 8684
+      },
+      {
+        "name": "5 star",
+        "count": 26966
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=38",
+    "title": "SoundSketch",
+    "companyName": "Green Labs",
+    "id": 38,
+    "description": "SoundSketch is a productivity app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 208,
+    "reviews": 21936,
+    "ratingAvg": 4.34,
+    "downloads": 7955224,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 887
+      },
+      {
+        "name": "2 star",
+        "count": 99
+      },
+      {
+        "name": "3 star",
+        "count": 2928
+      },
+      {
+        "name": "4 star",
+        "count": 4737
+      },
+      {
+        "name": "5 star",
+        "count": 13285
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=39",
+    "title": "NimbleLearn",
+    "companyName": "Blue Co.",
+    "id": 39,
+    "description": "NimbleLearn is a productivity app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 236,
+    "reviews": 35363,
+    "ratingAvg": 3.67,
+    "downloads": 11333841,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4712
+      },
+      {
+        "name": "2 star",
+        "count": 2485
+      },
+      {
+        "name": "3 star",
+        "count": 5225
+      },
+      {
+        "name": "4 star",
+        "count": 10356
+      },
+      {
+        "name": "5 star",
+        "count": 12585
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=40",
+    "title": "NovaPlanner Pro",
+    "companyName": "Aurora Labs",
+    "id": 40,
+    "description": "NovaPlanner Pro is a messaging app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 101,
+    "reviews": 51131,
+    "ratingAvg": 4.12,
+    "downloads": 13377070,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2243
+      },
+      {
+        "name": "2 star",
+        "count": 1839
+      },
+      {
+        "name": "3 star",
+        "count": 11497
+      },
+      {
+        "name": "4 star",
+        "count": 7401
+      },
+      {
+        "name": "5 star",
+        "count": 28151
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=41",
+    "title": "PrimeTravel",
+    "companyName": "Bright Solutions",
+    "id": 41,
+    "description": "PrimeTravel is a wellness app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 188,
+    "reviews": 604,
+    "ratingAvg": 4.07,
+    "downloads": 177662,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 52
+      },
+      {
+        "name": "2 star",
+        "count": 13
+      },
+      {
+        "name": "3 star",
+        "count": 56
+      },
+      {
+        "name": "4 star",
+        "count": 204
+      },
+      {
+        "name": "5 star",
+        "count": 279
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=42",
+    "title": "NimbleScape",
+    "companyName": "Forge Studios",
+    "id": 42,
+    "description": "NimbleScape is a photo app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 93,
+    "reviews": 53879,
+    "ratingAvg": 4.03,
+    "downloads": 11751956,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1008
+      },
+      {
+        "name": "2 star",
+        "count": 4715
+      },
+      {
+        "name": "3 star",
+        "count": 7390
+      },
+      {
+        "name": "4 star",
+        "count": 19300
+      },
+      {
+        "name": "5 star",
+        "count": 21466
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=43",
+    "title": "PrimeScape",
+    "companyName": "Artify Works",
+    "id": 43,
+    "description": "PrimeScape is a education app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 26,
+    "reviews": 56460,
+    "ratingAvg": 4.56,
+    "downloads": 9743634,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 711
+      },
+      {
+        "name": "2 star",
+        "count": 900
+      },
+      {
+        "name": "3 star",
+        "count": 3429
+      },
+      {
+        "name": "4 star",
+        "count": 12505
+      },
+      {
+        "name": "5 star",
+        "count": 38915
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=44",
+    "title": "AuroraFlow",
+    "companyName": "Edu Interactive",
+    "id": 44,
+    "description": "AuroraFlow is a finance app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 111,
+    "reviews": 37164,
+    "ratingAvg": 4.43,
+    "downloads": 1535030,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 308
+      },
+      {
+        "name": "2 star",
+        "count": 1778
+      },
+      {
+        "name": "3 star",
+        "count": 2212
+      },
+      {
+        "name": "4 star",
+        "count": 10310
+      },
+      {
+        "name": "5 star",
+        "count": 22556
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=45",
+    "title": "SoundTrack",
+    "companyName": "Pixel Works",
+    "id": 45,
+    "description": "SoundTrack is a security app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 122,
+    "reviews": 7997,
+    "ratingAvg": 4.48,
+    "downloads": 1977497,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 62
+      },
+      {
+        "name": "2 star",
+        "count": 222
+      },
+      {
+        "name": "3 star",
+        "count": 681
+      },
+      {
+        "name": "4 star",
+        "count": 1873
+      },
+      {
+        "name": "5 star",
+        "count": 5159
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=46",
+    "title": "EchoNotes",
+    "companyName": "Bright Labs",
+    "id": 46,
+    "description": "EchoNotes is a navigation app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 112,
+    "reviews": 32947,
+    "ratingAvg": 3.78,
+    "downloads": 3665180,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5143
+      },
+      {
+        "name": "2 star",
+        "count": 495
+      },
+      {
+        "name": "3 star",
+        "count": 5346
+      },
+      {
+        "name": "4 star",
+        "count": 7340
+      },
+      {
+        "name": "5 star",
+        "count": 14623
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=47",
+    "title": "PixelDesk",
+    "companyName": "Artify Studios",
+    "id": 47,
+    "description": "PixelDesk is a music app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 50,
+    "reviews": 32539,
+    "ratingAvg": 4.5,
+    "downloads": 13223301,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1535
+      },
+      {
+        "name": "2 star",
+        "count": 1050
+      },
+      {
+        "name": "3 star",
+        "count": 183
+      },
+      {
+        "name": "4 star",
+        "count": 6531
+      },
+      {
+        "name": "5 star",
+        "count": 23240
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=48",
+    "title": "QuickHelper",
+    "companyName": "Edu Systems",
+    "id": 48,
+    "description": "QuickHelper is a productivity app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 22,
+    "reviews": 57176,
+    "ratingAvg": 3.95,
+    "downloads": 2943366,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2106
+      },
+      {
+        "name": "2 star",
+        "count": 8399
+      },
+      {
+        "name": "3 star",
+        "count": 11049
+      },
+      {
+        "name": "4 star",
+        "count": 4187
+      },
+      {
+        "name": "5 star",
+        "count": 31435
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=49",
+    "title": "QuickStudio",
+    "companyName": "Blue Interactive",
+    "id": 49,
+    "description": "QuickStudio is a security app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 45,
+    "reviews": 21442,
+    "ratingAvg": 4.12,
+    "downloads": 8245346,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 140
+      },
+      {
+        "name": "2 star",
+        "count": 1091
+      },
+      {
+        "name": "3 star",
+        "count": 4187
+      },
+      {
+        "name": "4 star",
+        "count": 6691
+      },
+      {
+        "name": "5 star",
+        "count": 9333
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=50",
+    "title": "EpicTravel",
+    "companyName": "Pixel Interactive",
+    "id": 50,
+    "description": "EpicTravel is a travel app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 204,
+    "reviews": 45588,
+    "ratingAvg": 4.12,
+    "downloads": 1615275,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1106
+      },
+      {
+        "name": "2 star",
+        "count": 4136
+      },
+      {
+        "name": "3 star",
+        "count": 1555
+      },
+      {
+        "name": "4 star",
+        "count": 20371
+      },
+      {
+        "name": "5 star",
+        "count": 18420
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=51",
+    "title": "NovaNotes",
+    "companyName": "Green Labs",
+    "id": 51,
+    "description": "NovaNotes is a wellness app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 171,
+    "reviews": 65201,
+    "ratingAvg": 4.55,
+    "downloads": 5262022,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 915
+      },
+      {
+        "name": "2 star",
+        "count": 727
+      },
+      {
+        "name": "3 star",
+        "count": 4633
+      },
+      {
+        "name": "4 star",
+        "count": 14247
+      },
+      {
+        "name": "5 star",
+        "count": 44679
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=52",
+    "title": "FlowChat Pro",
+    "companyName": "Aurora Studios",
+    "id": 52,
+    "description": "FlowChat Pro is a productivity app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 19,
+    "reviews": 54531,
+    "ratingAvg": 3.89,
+    "downloads": 3063480,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 343
+      },
+      {
+        "name": "2 star",
+        "count": 13883
+      },
+      {
+        "name": "3 star",
+        "count": 2067
+      },
+      {
+        "name": "4 star",
+        "count": 13550
+      },
+      {
+        "name": "5 star",
+        "count": 24688
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=53",
+    "title": "EchoTrack",
+    "companyName": "Serenity Ltd.",
+    "id": 53,
+    "description": "EchoTrack is a photo app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 30,
+    "reviews": 59939,
+    "ratingAvg": 4.3,
+    "downloads": 11327318,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2120
+      },
+      {
+        "name": "2 star",
+        "count": 1597
+      },
+      {
+        "name": "3 star",
+        "count": 4797
+      },
+      {
+        "name": "4 star",
+        "count": 18813
+      },
+      {
+        "name": "5 star",
+        "count": 32612
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=54",
+    "title": "EchoStudio Pro",
+    "companyName": "Aurora Inc.",
+    "id": 54,
+    "description": "EchoStudio Pro is a fitness app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 213,
+    "reviews": 13053,
+    "ratingAvg": 4.07,
+    "downloads": 4306905,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 628
+      },
+      {
+        "name": "2 star",
+        "count": 866
+      },
+      {
+        "name": "3 star",
+        "count": 1783
+      },
+      {
+        "name": "4 star",
+        "count": 3520
+      },
+      {
+        "name": "5 star",
+        "count": 6256
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=55",
+    "title": "QuickPlanner",
+    "companyName": "Prime Systems",
+    "id": 55,
+    "description": "QuickPlanner is a travel app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 164,
+    "reviews": 44568,
+    "ratingAvg": 3.78,
+    "downloads": 6805090,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 733
+      },
+      {
+        "name": "2 star",
+        "count": 9156
+      },
+      {
+        "name": "3 star",
+        "count": 5973
+      },
+      {
+        "name": "4 star",
+        "count": 12238
+      },
+      {
+        "name": "5 star",
+        "count": 16468
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=56",
+    "title": "SwiftMind Pro",
+    "companyName": "Nova Collective",
+    "id": 56,
+    "description": "SwiftMind Pro is a finance app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 67,
+    "reviews": 21358,
+    "ratingAvg": 4.4,
+    "downloads": 13042948,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 313
+      },
+      {
+        "name": "2 star",
+        "count": 314
+      },
+      {
+        "name": "3 star",
+        "count": 2704
+      },
+      {
+        "name": "4 star",
+        "count": 5284
+      },
+      {
+        "name": "5 star",
+        "count": 12743
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=57",
+    "title": "MapleDesk",
+    "companyName": "Prime Ltd.",
+    "id": 57,
+    "description": "MapleDesk is a education app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 35,
+    "reviews": 48129,
+    "ratingAvg": 4.58,
+    "downloads": 7887190,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2190
+      },
+      {
+        "name": "2 star",
+        "count": 1891
+      },
+      {
+        "name": "3 star",
+        "count": 976
+      },
+      {
+        "name": "4 star",
+        "count": 3921
+      },
+      {
+        "name": "5 star",
+        "count": 39151
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=58",
+    "title": "MaplePulse",
+    "companyName": "Artify Solutions",
+    "id": 58,
+    "description": "MaplePulse is a photo app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 184,
+    "reviews": 8904,
+    "ratingAvg": 3.65,
+    "downloads": 3178134,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 335
+      },
+      {
+        "name": "2 star",
+        "count": 1979
+      },
+      {
+        "name": "3 star",
+        "count": 1500
+      },
+      {
+        "name": "4 star",
+        "count": 1754
+      },
+      {
+        "name": "5 star",
+        "count": 3336
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=59",
+    "title": "SwiftDesk Pro",
+    "companyName": "Prime Co.",
+    "id": 59,
+    "description": "SwiftDesk Pro is a productivity app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 42,
+    "reviews": 78380,
+    "ratingAvg": 4.09,
+    "downloads": 9381069,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5949
+      },
+      {
+        "name": "2 star",
+        "count": 11310
+      },
+      {
+        "name": "3 star",
+        "count": 3006
+      },
+      {
+        "name": "4 star",
+        "count": 7234
+      },
+      {
+        "name": "5 star",
+        "count": 50881
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=60",
+    "title": "CozyTrack",
+    "companyName": "Green Collective",
+    "id": 60,
+    "description": "CozyTrack is a productivity app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 22,
+    "reviews": 30074,
+    "ratingAvg": 4.3,
+    "downloads": 6103379,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 711
+      },
+      {
+        "name": "2 star",
+        "count": 980
+      },
+      {
+        "name": "3 star",
+        "count": 3118
+      },
+      {
+        "name": "4 star",
+        "count": 9092
+      },
+      {
+        "name": "5 star",
+        "count": 16173
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=61",
+    "title": "UrbanFlow Pro",
+    "companyName": "Summit Ltd.",
+    "id": 61,
+    "description": "UrbanFlow Pro is a navigation app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 130,
+    "reviews": 924,
+    "ratingAvg": 3.47,
+    "downloads": 753037,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 183
+      },
+      {
+        "name": "2 star",
+        "count": 92
+      },
+      {
+        "name": "3 star",
+        "count": 46
+      },
+      {
+        "name": "4 star",
+        "count": 311
+      },
+      {
+        "name": "5 star",
+        "count": 292
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=62",
+    "title": "ZenBuddy",
+    "companyName": "Green Ltd.",
+    "id": 62,
+    "description": "ZenBuddy is a music app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 223,
+    "reviews": 33523,
+    "ratingAvg": 4.28,
+    "downloads": 10164569,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 3150
+      },
+      {
+        "name": "3 star",
+        "count": 5249
+      },
+      {
+        "name": "4 star",
+        "count": 3697
+      },
+      {
+        "name": "5 star",
+        "count": 21277
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=63",
+    "title": "SoundPlanner",
+    "companyName": "Connect Interactive",
+    "id": 63,
+    "description": "SoundPlanner is a messaging app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 119,
+    "reviews": 15247,
+    "ratingAvg": 4.49,
+    "downloads": 8442281,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 559
+      },
+      {
+        "name": "2 star",
+        "count": 271
+      },
+      {
+        "name": "3 star",
+        "count": 1716
+      },
+      {
+        "name": "4 star",
+        "count": 1368
+      },
+      {
+        "name": "5 star",
+        "count": 11333
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=64",
+    "title": "EchoChat",
+    "companyName": "Connect Works",
+    "id": 64,
+    "description": "EchoChat is a music app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 231,
+    "reviews": 39762,
+    "ratingAvg": 4.34,
+    "downloads": 2528522,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 883
+      },
+      {
+        "name": "2 star",
+        "count": 736
+      },
+      {
+        "name": "3 star",
+        "count": 8344
+      },
+      {
+        "name": "4 star",
+        "count": 3777
+      },
+      {
+        "name": "5 star",
+        "count": 26022
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=65",
+    "title": "PrimeVault",
+    "companyName": "Summit Studios",
+    "id": 65,
+    "description": "PrimeVault is a music app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 164,
+    "reviews": 70951,
+    "ratingAvg": 3.78,
+    "downloads": 7008844,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4441
+      },
+      {
+        "name": "2 star",
+        "count": 20415
+      },
+      {
+        "name": "3 star",
+        "count": 920
+      },
+      {
+        "name": "4 star",
+        "count": 5606
+      },
+      {
+        "name": "5 star",
+        "count": 39569
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=66",
+    "title": "VividTravel",
+    "companyName": "Nova Systems",
+    "id": 66,
+    "description": "VividTravel is a navigation app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 211,
+    "reviews": 73567,
+    "ratingAvg": 3.77,
+    "downloads": 5598736,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2231
+      },
+      {
+        "name": "2 star",
+        "count": 10645
+      },
+      {
+        "name": "3 star",
+        "count": 15719
+      },
+      {
+        "name": "4 star",
+        "count": 18245
+      },
+      {
+        "name": "5 star",
+        "count": 26727
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=67",
+    "title": "ZenTask Pro",
+    "companyName": "Wander Labs",
+    "id": 67,
+    "description": "ZenTask Pro is a productivity app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 97,
+    "reviews": 27048,
+    "ratingAvg": 3.74,
+    "downloads": 8666701,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 604
+      },
+      {
+        "name": "2 star",
+        "count": 3709
+      },
+      {
+        "name": "3 star",
+        "count": 7605
+      },
+      {
+        "name": "4 star",
+        "count": 5318
+      },
+      {
+        "name": "5 star",
+        "count": 9812
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=68",
+    "title": "FlowTrack",
+    "companyName": "HealthSync Interactive",
+    "id": 68,
+    "description": "FlowTrack is a photo app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 228,
+    "reviews": 12494,
+    "ratingAvg": 4.27,
+    "downloads": 3047557,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 281
+      },
+      {
+        "name": "2 star",
+        "count": 407
+      },
+      {
+        "name": "3 star",
+        "count": 2269
+      },
+      {
+        "name": "4 star",
+        "count": 2257
+      },
+      {
+        "name": "5 star",
+        "count": 7280
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=69",
+    "title": "BrightTrack",
+    "companyName": "Blue Studios",
+    "id": 69,
+    "description": "BrightTrack is a finance app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 223,
+    "reviews": 18141,
+    "ratingAvg": 4.1,
+    "downloads": 12601200,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1540
+      },
+      {
+        "name": "2 star",
+        "count": 1322
+      },
+      {
+        "name": "3 star",
+        "count": 1181
+      },
+      {
+        "name": "4 star",
+        "count": 3775
+      },
+      {
+        "name": "5 star",
+        "count": 10323
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=70",
+    "title": "MapleFlow",
+    "companyName": "Blue Studios",
+    "id": 70,
+    "description": "MapleFlow is a security app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 89,
+    "reviews": 26385,
+    "ratingAvg": 4.14,
+    "downloads": 4207788,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1524
+      },
+      {
+        "name": "2 star",
+        "count": 1793
+      },
+      {
+        "name": "3 star",
+        "count": 2086
+      },
+      {
+        "name": "4 star",
+        "count": 7065
+      },
+      {
+        "name": "5 star",
+        "count": 13917
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=71",
+    "title": "NovaFlow",
+    "companyName": "Pixel Ltd.",
+    "id": 71,
+    "description": "NovaFlow is a navigation app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 131,
+    "reviews": 5183,
+    "ratingAvg": 3.84,
+    "downloads": 1492884,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 454
+      },
+      {
+        "name": "2 star",
+        "count": 522
+      },
+      {
+        "name": "3 star",
+        "count": 391
+      },
+      {
+        "name": "4 star",
+        "count": 1851
+      },
+      {
+        "name": "5 star",
+        "count": 1965
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=72",
+    "title": "PixelFlow",
+    "companyName": "Sound Labs",
+    "id": 72,
+    "description": "PixelFlow is a productivity app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 159,
+    "reviews": 74305,
+    "ratingAvg": 4.1,
+    "downloads": 9621221,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 979
+      },
+      {
+        "name": "2 star",
+        "count": 5961
+      },
+      {
+        "name": "3 star",
+        "count": 12023
+      },
+      {
+        "name": "4 star",
+        "count": 21226
+      },
+      {
+        "name": "5 star",
+        "count": 34116
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=73",
+    "title": "EpicFit",
+    "companyName": "Trail Systems",
+    "id": 73,
+    "description": "EpicFit is a fitness app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 214,
+    "reviews": 1084,
+    "ratingAvg": 4.18,
+    "downloads": 2184813,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 75
+      },
+      {
+        "name": "2 star",
+        "count": 61
+      },
+      {
+        "name": "3 star",
+        "count": 104
+      },
+      {
+        "name": "4 star",
+        "count": 203
+      },
+      {
+        "name": "5 star",
+        "count": 641
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=74",
+    "title": "SmartSketch",
+    "companyName": "Serenity Ltd.",
+    "id": 74,
+    "description": "SmartSketch is a security app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 177,
+    "reviews": 41212,
+    "ratingAvg": 4.24,
+    "downloads": 12110211,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1892
+      },
+      {
+        "name": "2 star",
+        "count": 209
+      },
+      {
+        "name": "3 star",
+        "count": 4975
+      },
+      {
+        "name": "4 star",
+        "count": 12986
+      },
+      {
+        "name": "5 star",
+        "count": 21150
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=75",
+    "title": "ZenMarket",
+    "companyName": "Blue Works",
+    "id": 75,
+    "description": "ZenMarket is a education app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 36,
+    "reviews": 46589,
+    "ratingAvg": 3.94,
+    "downloads": 11573018,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3034
+      },
+      {
+        "name": "2 star",
+        "count": 2005
+      },
+      {
+        "name": "3 star",
+        "count": 10991
+      },
+      {
+        "name": "4 star",
+        "count": 9167
+      },
+      {
+        "name": "5 star",
+        "count": 21392
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=76",
+    "title": "SoundFlow Pro",
+    "companyName": "Aurora Interactive",
+    "id": 76,
+    "description": "SoundFlow Pro is a photo app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 125,
+    "reviews": 12119,
+    "ratingAvg": 3.79,
+    "downloads": 4185284,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2149
+      },
+      {
+        "name": "2 star",
+        "count": 233
+      },
+      {
+        "name": "3 star",
+        "count": 1313
+      },
+      {
+        "name": "4 star",
+        "count": 2760
+      },
+      {
+        "name": "5 star",
+        "count": 5664
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=77",
+    "title": "MapleHelper Pro",
+    "companyName": "Aurora Solutions",
+    "id": 77,
+    "description": "MapleHelper Pro is a photo app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 243,
+    "reviews": 26364,
+    "ratingAvg": 4.47,
+    "downloads": 14160670,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1043
+      },
+      {
+        "name": "2 star",
+        "count": 1579
+      },
+      {
+        "name": "3 star",
+        "count": 1381
+      },
+      {
+        "name": "4 star",
+        "count": 2302
+      },
+      {
+        "name": "5 star",
+        "count": 20059
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=78",
+    "title": "NovaBuddy",
+    "companyName": "Prime Collective",
+    "id": 78,
+    "description": "NovaBuddy is a productivity app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 211,
+    "reviews": 3832,
+    "ratingAvg": 4.18,
+    "downloads": 2440404,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 97
+      },
+      {
+        "name": "2 star",
+        "count": 491
+      },
+      {
+        "name": "3 star",
+        "count": 357
+      },
+      {
+        "name": "4 star",
+        "count": 554
+      },
+      {
+        "name": "5 star",
+        "count": 2333
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=79",
+    "title": "MapleVault",
+    "companyName": "Connect Studios",
+    "id": 79,
+    "description": "MapleVault is a productivity app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 190,
+    "reviews": 19401,
+    "ratingAvg": 3.54,
+    "downloads": 1858859,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2965
+      },
+      {
+        "name": "2 star",
+        "count": 3082
+      },
+      {
+        "name": "3 star",
+        "count": 1899
+      },
+      {
+        "name": "4 star",
+        "count": 3489
+      },
+      {
+        "name": "5 star",
+        "count": 7966
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=80",
+    "title": "SoundStudio",
+    "companyName": "Nova Inc.",
+    "id": 80,
+    "description": "SoundStudio is a messaging app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 130,
+    "reviews": 28724,
+    "ratingAvg": 3.48,
+    "downloads": 5282886,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 909
+      },
+      {
+        "name": "2 star",
+        "count": 5870
+      },
+      {
+        "name": "3 star",
+        "count": 10223
+      },
+      {
+        "name": "4 star",
+        "count": 1990
+      },
+      {
+        "name": "5 star",
+        "count": 9732
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=81",
+    "title": "UrbanGarden",
+    "companyName": "Pixel Collective",
+    "id": 81,
+    "description": "UrbanGarden is a productivity app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 157,
+    "reviews": 9523,
+    "ratingAvg": 4.34,
+    "downloads": 5963949,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 211
+      },
+      {
+        "name": "2 star",
+        "count": 461
+      },
+      {
+        "name": "3 star",
+        "count": 825
+      },
+      {
+        "name": "4 star",
+        "count": 2435
+      },
+      {
+        "name": "5 star",
+        "count": 5591
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=82",
+    "title": "VividPulse",
+    "companyName": "Bright Works",
+    "id": 82,
+    "description": "VividPulse is a design app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 164,
+    "reviews": 7996,
+    "ratingAvg": 3.87,
+    "downloads": 11371837,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 303
+      },
+      {
+        "name": "2 star",
+        "count": 421
+      },
+      {
+        "name": "3 star",
+        "count": 2127
+      },
+      {
+        "name": "4 star",
+        "count": 2338
+      },
+      {
+        "name": "5 star",
+        "count": 2807
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=83",
+    "title": "BrightFit",
+    "companyName": "Edu Labs",
+    "id": 83,
+    "description": "BrightFit is a design app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 123,
+    "reviews": 74135,
+    "ratingAvg": 3.18,
+    "downloads": 5561407,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 21606
+      },
+      {
+        "name": "2 star",
+        "count": 1653
+      },
+      {
+        "name": "3 star",
+        "count": 14996
+      },
+      {
+        "name": "4 star",
+        "count": 13686
+      },
+      {
+        "name": "5 star",
+        "count": 22194
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=84",
+    "title": "BrightMind",
+    "companyName": "Boostify Labs",
+    "id": 84,
+    "description": "BrightMind is a travel app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 219,
+    "reviews": 17073,
+    "ratingAvg": 3.86,
+    "downloads": 8331162,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3841
+      },
+      {
+        "name": "2 star",
+        "count": 27
+      },
+      {
+        "name": "3 star",
+        "count": 568
+      },
+      {
+        "name": "4 star",
+        "count": 2819
+      },
+      {
+        "name": "5 star",
+        "count": 9818
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=85",
+    "title": "EpicLearn Pro",
+    "companyName": "Nova Studios",
+    "id": 85,
+    "description": "EpicLearn Pro is a fitness app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 205,
+    "reviews": 11966,
+    "ratingAvg": 3.99,
+    "downloads": 7719307,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 919
+      },
+      {
+        "name": "2 star",
+        "count": 888
+      },
+      {
+        "name": "3 star",
+        "count": 405
+      },
+      {
+        "name": "4 star",
+        "count": 4977
+      },
+      {
+        "name": "5 star",
+        "count": 4777
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=86",
+    "title": "PrimeMarket",
+    "companyName": "Edu Labs",
+    "id": 86,
+    "description": "PrimeMarket is a wellness app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 116,
+    "reviews": 4852,
+    "ratingAvg": 3.57,
+    "downloads": 3971390,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1113
+      },
+      {
+        "name": "2 star",
+        "count": 214
+      },
+      {
+        "name": "3 star",
+        "count": 41
+      },
+      {
+        "name": "4 star",
+        "count": 1763
+      },
+      {
+        "name": "5 star",
+        "count": 1721
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=87",
+    "title": "CozyVault",
+    "companyName": "Aurora Studios",
+    "id": 87,
+    "description": "CozyVault is a photo app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 74,
+    "reviews": 13306,
+    "ratingAvg": 3.98,
+    "downloads": 3696367,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 876
+      },
+      {
+        "name": "2 star",
+        "count": 848
+      },
+      {
+        "name": "3 star",
+        "count": 1576
+      },
+      {
+        "name": "4 star",
+        "count": 4353
+      },
+      {
+        "name": "5 star",
+        "count": 5653
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=88",
+    "title": "EpicFit",
+    "companyName": "HealthSync Systems",
+    "id": 88,
+    "description": "EpicFit is a design app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 33,
+    "reviews": 72341,
+    "ratingAvg": 4.43,
+    "downloads": 13924521,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 875
+      },
+      {
+        "name": "2 star",
+        "count": 3527
+      },
+      {
+        "name": "3 star",
+        "count": 2756
+      },
+      {
+        "name": "4 star",
+        "count": 21624
+      },
+      {
+        "name": "5 star",
+        "count": 43559
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=89",
+    "title": "CozyNotes",
+    "companyName": "Artify Collective",
+    "id": 89,
+    "description": "CozyNotes is a education app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 190,
+    "reviews": 32878,
+    "ratingAvg": 3.41,
+    "downloads": 13557793,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5197
+      },
+      {
+        "name": "2 star",
+        "count": 5947
+      },
+      {
+        "name": "3 star",
+        "count": 4584
+      },
+      {
+        "name": "4 star",
+        "count": 4591
+      },
+      {
+        "name": "5 star",
+        "count": 12559
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=90",
+    "title": "GrooveHelper",
+    "companyName": "Blue Solutions",
+    "id": 90,
+    "description": "GrooveHelper is a travel app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 114,
+    "reviews": 3684,
+    "ratingAvg": 4.44,
+    "downloads": 1366371,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 120
+      },
+      {
+        "name": "2 star",
+        "count": 93
+      },
+      {
+        "name": "3 star",
+        "count": 544
+      },
+      {
+        "name": "4 star",
+        "count": 212
+      },
+      {
+        "name": "5 star",
+        "count": 2715
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=91",
+    "title": "SoundPlanner",
+    "companyName": "Bright Inc.",
+    "id": 91,
+    "description": "SoundPlanner is a navigation app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 213,
+    "reviews": 7537,
+    "ratingAvg": 4.3,
+    "downloads": 1913218,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 58
+      },
+      {
+        "name": "2 star",
+        "count": 38
+      },
+      {
+        "name": "3 star",
+        "count": 1882
+      },
+      {
+        "name": "4 star",
+        "count": 1177
+      },
+      {
+        "name": "5 star",
+        "count": 4382
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=92",
+    "title": "EchoGarden",
+    "companyName": "Serenity Collective",
+    "id": 92,
+    "description": "EchoGarden is a music app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 123,
+    "reviews": 79550,
+    "ratingAvg": 3.56,
+    "downloads": 5061569,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 12454
+      },
+      {
+        "name": "2 star",
+        "count": 5507
+      },
+      {
+        "name": "3 star",
+        "count": 16484
+      },
+      {
+        "name": "4 star",
+        "count": 15094
+      },
+      {
+        "name": "5 star",
+        "count": 30011
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=93",
+    "title": "SoundVault",
+    "companyName": "Serenity Solutions",
+    "id": 93,
+    "description": "SoundVault is a messaging app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 161,
+    "reviews": 35422,
+    "ratingAvg": 4.06,
+    "downloads": 6943579,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 481
+      },
+      {
+        "name": "2 star",
+        "count": 4232
+      },
+      {
+        "name": "3 star",
+        "count": 6938
+      },
+      {
+        "name": "4 star",
+        "count": 4918
+      },
+      {
+        "name": "5 star",
+        "count": 18853
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=94",
+    "title": "TrailTask",
+    "companyName": "Prime Works",
+    "id": 94,
+    "description": "TrailTask is a messaging app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 72,
+    "reviews": 7197,
+    "ratingAvg": 3.96,
+    "downloads": 3208068,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 611
+      },
+      {
+        "name": "2 star",
+        "count": 1085
+      },
+      {
+        "name": "3 star",
+        "count": 382
+      },
+      {
+        "name": "4 star",
+        "count": 1042
+      },
+      {
+        "name": "5 star",
+        "count": 4077
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=95",
+    "title": "NimblePlanner Pro",
+    "companyName": "Sound Studios",
+    "id": 95,
+    "description": "NimblePlanner Pro is a music app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 112,
+    "reviews": 7365,
+    "ratingAvg": 4.16,
+    "downloads": 5269960,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 8
+      },
+      {
+        "name": "2 star",
+        "count": 694
+      },
+      {
+        "name": "3 star",
+        "count": 1561
+      },
+      {
+        "name": "4 star",
+        "count": 950
+      },
+      {
+        "name": "5 star",
+        "count": 4152
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=96",
+    "title": "NimbleMarket",
+    "companyName": "Cloud Ltd.",
+    "id": 96,
+    "description": "NimbleMarket is a fitness app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 202,
+    "reviews": 73058,
+    "ratingAvg": 3.94,
+    "downloads": 9189525,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 13233
+      },
+      {
+        "name": "2 star",
+        "count": 796
+      },
+      {
+        "name": "3 star",
+        "count": 4603
+      },
+      {
+        "name": "4 star",
+        "count": 12579
+      },
+      {
+        "name": "5 star",
+        "count": 41847
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=97",
+    "title": "TrailPulse",
+    "companyName": "Connect Collective",
+    "id": 97,
+    "description": "TrailPulse is a navigation app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 88,
+    "reviews": 24179,
+    "ratingAvg": 3.81,
+    "downloads": 9008193,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4179
+      },
+      {
+        "name": "2 star",
+        "count": 478
+      },
+      {
+        "name": "3 star",
+        "count": 3339
+      },
+      {
+        "name": "4 star",
+        "count": 4029
+      },
+      {
+        "name": "5 star",
+        "count": 12154
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=98",
+    "title": "SoundVault",
+    "companyName": "HealthSync Labs",
+    "id": 98,
+    "description": "SoundVault is a design app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 121,
+    "reviews": 15790,
+    "ratingAvg": 4.19,
+    "downloads": 6382994,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1021
+      },
+      {
+        "name": "2 star",
+        "count": 668
+      },
+      {
+        "name": "3 star",
+        "count": 2144
+      },
+      {
+        "name": "4 star",
+        "count": 2402
+      },
+      {
+        "name": "5 star",
+        "count": 9555
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=99",
+    "title": "PixelSketch Pro",
+    "companyName": "Blue Co.",
+    "id": 99,
+    "description": "PixelSketch Pro is a wellness app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 59,
+    "reviews": 24780,
+    "ratingAvg": 3.91,
+    "downloads": 9481648,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1402
+      },
+      {
+        "name": "2 star",
+        "count": 1450
+      },
+      {
+        "name": "3 star",
+        "count": 7392
+      },
+      {
+        "name": "4 star",
+        "count": 2307
+      },
+      {
+        "name": "5 star",
+        "count": 12229
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=100",
+    "title": "SwiftDesk",
+    "companyName": "Summit Interactive",
+    "id": 100,
+    "description": "SwiftDesk is a productivity app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 25,
+    "reviews": 46833,
+    "ratingAvg": 4.4,
+    "downloads": 10658817,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1618
+      },
+      {
+        "name": "2 star",
+        "count": 1157
+      },
+      {
+        "name": "3 star",
+        "count": 3546
+      },
+      {
+        "name": "4 star",
+        "count": 10894
+      },
+      {
+        "name": "5 star",
+        "count": 29618
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=101",
+    "title": "AuroraTrack",
+    "companyName": "Blue Ltd.",
+    "id": 101,
+    "description": "AuroraTrack is a navigation app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 117,
+    "reviews": 37358,
+    "ratingAvg": 4.47,
+    "downloads": 5332979,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 329
+      },
+      {
+        "name": "2 star",
+        "count": 503
+      },
+      {
+        "name": "3 star",
+        "count": 6322
+      },
+      {
+        "name": "4 star",
+        "count": 4414
+      },
+      {
+        "name": "5 star",
+        "count": 25790
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=102",
+    "title": "QuickVault",
+    "companyName": "HealthSync Collective",
+    "id": 102,
+    "description": "QuickVault is a music app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 164,
+    "reviews": 24854,
+    "ratingAvg": 4.6,
+    "downloads": 8762683,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 865
+      },
+      {
+        "name": "3 star",
+        "count": 1010
+      },
+      {
+        "name": "4 star",
+        "count": 3964
+      },
+      {
+        "name": "5 star",
+        "count": 18703
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=103",
+    "title": "NimbleDesk",
+    "companyName": "Pixel Co.",
+    "id": 103,
+    "description": "NimbleDesk is a fitness app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 95,
+    "reviews": 448,
+    "ratingAvg": 3.65,
+    "downloads": 133537,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 49
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 135
+      },
+      {
+        "name": "4 star",
+        "count": 77
+      },
+      {
+        "name": "5 star",
+        "count": 167
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=104",
+    "title": "ZenMarket",
+    "companyName": "Edu Studios",
+    "id": 104,
+    "description": "ZenMarket is a travel app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 89,
+    "reviews": 75905,
+    "ratingAvg": 4.13,
+    "downloads": 13718504,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 827
+      },
+      {
+        "name": "2 star",
+        "count": 10198
+      },
+      {
+        "name": "3 star",
+        "count": 2933
+      },
+      {
+        "name": "4 star",
+        "count": 26182
+      },
+      {
+        "name": "5 star",
+        "count": 35765
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=105",
+    "title": "FlowFlow",
+    "companyName": "Blue Co.",
+    "id": 105,
+    "description": "FlowFlow is a education app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 171,
+    "reviews": 49124,
+    "ratingAvg": 4.26,
+    "downloads": 8060224,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3814
+      },
+      {
+        "name": "2 star",
+        "count": 1483
+      },
+      {
+        "name": "3 star",
+        "count": 2089
+      },
+      {
+        "name": "4 star",
+        "count": 12245
+      },
+      {
+        "name": "5 star",
+        "count": 29493
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=106",
+    "title": "NovaChat Pro",
+    "companyName": "Edu Collective",
+    "id": 106,
+    "description": "NovaChat Pro is a navigation app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 150,
+    "reviews": 53266,
+    "ratingAvg": 4.27,
+    "downloads": 9381576,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1745
+      },
+      {
+        "name": "2 star",
+        "count": 6356
+      },
+      {
+        "name": "3 star",
+        "count": 1729
+      },
+      {
+        "name": "4 star",
+        "count": 9549
+      },
+      {
+        "name": "5 star",
+        "count": 33887
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=107",
+    "title": "SwiftPlanner",
+    "companyName": "Lumen Solutions",
+    "id": 107,
+    "description": "SwiftPlanner is a productivity app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 139,
+    "reviews": 4928,
+    "ratingAvg": 3.83,
+    "downloads": 1657842,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 667
+      },
+      {
+        "name": "2 star",
+        "count": 86
+      },
+      {
+        "name": "3 star",
+        "count": 1055
+      },
+      {
+        "name": "4 star",
+        "count": 723
+      },
+      {
+        "name": "5 star",
+        "count": 2397
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=108",
+    "title": "TrailNotes",
+    "companyName": "Edu Interactive",
+    "id": 108,
+    "description": "TrailNotes is a security app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 65,
+    "reviews": 27863,
+    "ratingAvg": 4.16,
+    "downloads": 3147053,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1017
+      },
+      {
+        "name": "2 star",
+        "count": 683
+      },
+      {
+        "name": "3 star",
+        "count": 5242
+      },
+      {
+        "name": "4 star",
+        "count": 6769
+      },
+      {
+        "name": "5 star",
+        "count": 14152
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=109",
+    "title": "NovaLearn",
+    "companyName": "Sound Collective",
+    "id": 109,
+    "description": "NovaLearn is a security app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 98,
+    "reviews": 62012,
+    "ratingAvg": 3.39,
+    "downloads": 10035508,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4854
+      },
+      {
+        "name": "2 star",
+        "count": 21084
+      },
+      {
+        "name": "3 star",
+        "count": 5338
+      },
+      {
+        "name": "4 star",
+        "count": 6695
+      },
+      {
+        "name": "5 star",
+        "count": 24041
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=110",
+    "title": "PrimeFit",
+    "companyName": "Summit Ltd.",
+    "id": 110,
+    "description": "PrimeFit is a photo app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 116,
+    "reviews": 72435,
+    "ratingAvg": 3.86,
+    "downloads": 7117413,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5902
+      },
+      {
+        "name": "2 star",
+        "count": 9933
+      },
+      {
+        "name": "3 star",
+        "count": 10303
+      },
+      {
+        "name": "4 star",
+        "count": 8336
+      },
+      {
+        "name": "5 star",
+        "count": 37961
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=111",
+    "title": "NimbleFlow Pro",
+    "companyName": "Blue Collective",
+    "id": 111,
+    "description": "NimbleFlow Pro is a finance app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 185,
+    "reviews": 12835,
+    "ratingAvg": 4.31,
+    "downloads": 8324216,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 776
+      },
+      {
+        "name": "2 star",
+        "count": 64
+      },
+      {
+        "name": "3 star",
+        "count": 958
+      },
+      {
+        "name": "4 star",
+        "count": 3628
+      },
+      {
+        "name": "5 star",
+        "count": 7409
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=112",
+    "title": "TrailHelper",
+    "companyName": "Artify Solutions",
+    "id": 112,
+    "description": "TrailHelper is a finance app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 73,
+    "reviews": 22379,
+    "ratingAvg": 4.43,
+    "downloads": 7152912,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1193
+      },
+      {
+        "name": "2 star",
+        "count": 527
+      },
+      {
+        "name": "3 star",
+        "count": 245
+      },
+      {
+        "name": "4 star",
+        "count": 6003
+      },
+      {
+        "name": "5 star",
+        "count": 14411
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=113",
+    "title": "EchoFlow",
+    "companyName": "Wander Labs",
+    "id": 113,
+    "description": "EchoFlow is a photo app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 107,
+    "reviews": 20215,
+    "ratingAvg": 3.84,
+    "downloads": 8950189,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 532
+      },
+      {
+        "name": "2 star",
+        "count": 2363
+      },
+      {
+        "name": "3 star",
+        "count": 2868
+      },
+      {
+        "name": "4 star",
+        "count": 8428
+      },
+      {
+        "name": "5 star",
+        "count": 6024
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=114",
+    "title": "PrimeTravel Pro",
+    "companyName": "Prime Inc.",
+    "id": 114,
+    "description": "PrimeTravel Pro is a security app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 118,
+    "reviews": 37221,
+    "ratingAvg": 4.06,
+    "downloads": 8231754,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1956
+      },
+      {
+        "name": "2 star",
+        "count": 1543
+      },
+      {
+        "name": "3 star",
+        "count": 8244
+      },
+      {
+        "name": "4 star",
+        "count": 5899
+      },
+      {
+        "name": "5 star",
+        "count": 19579
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=115",
+    "title": "SwiftSketch Pro",
+    "companyName": "HealthSync Solutions",
+    "id": 115,
+    "description": "SwiftSketch Pro is a security app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 188,
+    "reviews": 58314,
+    "ratingAvg": 4.16,
+    "downloads": 11718567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6054
+      },
+      {
+        "name": "2 star",
+        "count": 4096
+      },
+      {
+        "name": "3 star",
+        "count": 3521
+      },
+      {
+        "name": "4 star",
+        "count": 5609
+      },
+      {
+        "name": "5 star",
+        "count": 39034
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=116",
+    "title": "NovaPlanner Pro",
+    "companyName": "Boostify Solutions",
+    "id": 116,
+    "description": "NovaPlanner Pro is a education app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 18,
+    "reviews": 20018,
+    "ratingAvg": 4.07,
+    "downloads": 7197281,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2894
+      },
+      {
+        "name": "2 star",
+        "count": 212
+      },
+      {
+        "name": "3 star",
+        "count": 487
+      },
+      {
+        "name": "4 star",
+        "count": 5420
+      },
+      {
+        "name": "5 star",
+        "count": 11005
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=117",
+    "title": "AuroraScape Pro",
+    "companyName": "Sound Co.",
+    "id": 117,
+    "description": "AuroraScape Pro is a fitness app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 169,
+    "reviews": 5428,
+    "ratingAvg": 3.84,
+    "downloads": 3814852,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 674
+      },
+      {
+        "name": "2 star",
+        "count": 318
+      },
+      {
+        "name": "3 star",
+        "count": 186
+      },
+      {
+        "name": "4 star",
+        "count": 2293
+      },
+      {
+        "name": "5 star",
+        "count": 1957
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=118",
+    "title": "CozySketch Pro",
+    "companyName": "Boostify Solutions",
+    "id": 118,
+    "description": "CozySketch Pro is a productivity app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 202,
+    "reviews": 8511,
+    "ratingAvg": 4.36,
+    "downloads": 3594477,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 494
+      },
+      {
+        "name": "2 star",
+        "count": 509
+      },
+      {
+        "name": "3 star",
+        "count": 275
+      },
+      {
+        "name": "4 star",
+        "count": 1407
+      },
+      {
+        "name": "5 star",
+        "count": 5826
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=119",
+    "title": "TrailDesk",
+    "companyName": "Summit Works",
+    "id": 119,
+    "description": "TrailDesk is a navigation app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 24,
+    "reviews": 68784,
+    "ratingAvg": 3.97,
+    "downloads": 14245268,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1092
+      },
+      {
+        "name": "2 star",
+        "count": 4321
+      },
+      {
+        "name": "3 star",
+        "count": 20896
+      },
+      {
+        "name": "4 star",
+        "count": 11401
+      },
+      {
+        "name": "5 star",
+        "count": 31074
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=120",
+    "title": "QuickHelper",
+    "companyName": "Serenity Interactive",
+    "id": 120,
+    "description": "QuickHelper is a photo app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 125,
+    "reviews": 5078,
+    "ratingAvg": 3.67,
+    "downloads": 6150603,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 827
+      },
+      {
+        "name": "2 star",
+        "count": 35
+      },
+      {
+        "name": "3 star",
+        "count": 1093
+      },
+      {
+        "name": "4 star",
+        "count": 1162
+      },
+      {
+        "name": "5 star",
+        "count": 1961
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=121",
+    "title": "TrailPulse",
+    "companyName": "Bright Co.",
+    "id": 121,
+    "description": "TrailPulse is a wellness app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 38,
+    "reviews": 53213,
+    "ratingAvg": 3.63,
+    "downloads": 8598269,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2975
+      },
+      {
+        "name": "2 star",
+        "count": 10874
+      },
+      {
+        "name": "3 star",
+        "count": 8740
+      },
+      {
+        "name": "4 star",
+        "count": 10644
+      },
+      {
+        "name": "5 star",
+        "count": 19980
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=122",
+    "title": "EpicDesk",
+    "companyName": "Aurora Ltd.",
+    "id": 122,
+    "description": "EpicDesk is a design app designed to make everyday tasks easier and more enjoyable. It combines a clean, intuitive interface with powerful features that scale from casual users to power users. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 21,
+    "reviews": 14396,
+    "ratingAvg": 4.22,
+    "downloads": 11896601,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 108
+      },
+      {
+        "name": "2 star",
+        "count": 2140
+      },
+      {
+        "name": "3 star",
+        "count": 401
+      },
+      {
+        "name": "4 star",
+        "count": 3548
+      },
+      {
+        "name": "5 star",
+        "count": 8199
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=123",
+    "title": "GrooveLearn",
+    "companyName": "Bright Systems",
+    "id": 123,
+    "description": "GrooveLearn is a security app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 37,
+    "reviews": 13286,
+    "ratingAvg": 4.64,
+    "downloads": 8343974,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 295
+      },
+      {
+        "name": "2 star",
+        "count": 470
+      },
+      {
+        "name": "3 star",
+        "count": 823
+      },
+      {
+        "name": "4 star",
+        "count": 496
+      },
+      {
+        "name": "5 star",
+        "count": 11202
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=124",
+    "title": "TrailNotes",
+    "companyName": "Edu Interactive",
+    "id": 124,
+    "description": "TrailNotes is a navigation app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 99,
+    "reviews": 17650,
+    "ratingAvg": 3.61,
+    "downloads": 4570953,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 782
+      },
+      {
+        "name": "2 star",
+        "count": 4448
+      },
+      {
+        "name": "3 star",
+        "count": 1852
+      },
+      {
+        "name": "4 star",
+        "count": 4285
+      },
+      {
+        "name": "5 star",
+        "count": 6283
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=125",
+    "title": "EchoTravel",
+    "companyName": "Forge Solutions",
+    "id": 125,
+    "description": "EchoTravel is a music app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 205,
+    "reviews": 23428,
+    "ratingAvg": 4.21,
+    "downloads": 9189742,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 48
+      },
+      {
+        "name": "2 star",
+        "count": 2716
+      },
+      {
+        "name": "3 star",
+        "count": 2313
+      },
+      {
+        "name": "4 star",
+        "count": 5598
+      },
+      {
+        "name": "5 star",
+        "count": 12753
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=126",
+    "title": "NimbleStudio",
+    "companyName": "Serenity Works",
+    "id": 126,
+    "description": "NimbleStudio is a design app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 29,
+    "reviews": 6838,
+    "ratingAvg": 4.26,
+    "downloads": 3903465,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 163
+      },
+      {
+        "name": "2 star",
+        "count": 530
+      },
+      {
+        "name": "3 star",
+        "count": 331
+      },
+      {
+        "name": "4 star",
+        "count": 2164
+      },
+      {
+        "name": "5 star",
+        "count": 3650
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=127",
+    "title": "AuroraTask Pro",
+    "companyName": "Forge Co.",
+    "id": 127,
+    "description": "AuroraTask Pro is a fitness app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 45,
+    "reviews": 29215,
+    "ratingAvg": 4.34,
+    "downloads": 2777754,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1301
+      },
+      {
+        "name": "2 star",
+        "count": 2293
+      },
+      {
+        "name": "3 star",
+        "count": 930
+      },
+      {
+        "name": "4 star",
+        "count": 5402
+      },
+      {
+        "name": "5 star",
+        "count": 19289
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=128",
+    "title": "AuroraTravel",
+    "companyName": "Blue Collective",
+    "id": 128,
+    "description": "AuroraTravel is a messaging app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 191,
+    "reviews": 13946,
+    "ratingAvg": 4.21,
+    "downloads": 5033715,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 295
+      },
+      {
+        "name": "2 star",
+        "count": 2242
+      },
+      {
+        "name": "3 star",
+        "count": 686
+      },
+      {
+        "name": "4 star",
+        "count": 1779
+      },
+      {
+        "name": "5 star",
+        "count": 8944
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=129",
+    "title": "AuroraSketch",
+    "companyName": "HealthSync Labs",
+    "id": 129,
+    "description": "AuroraSketch is a design app designed to make everyday tasks easier and more enjoyable. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 68,
+    "reviews": 62423,
+    "ratingAvg": 3.95,
+    "downloads": 10857861,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 248
+      },
+      {
+        "name": "2 star",
+        "count": 12970
+      },
+      {
+        "name": "3 star",
+        "count": 6390
+      },
+      {
+        "name": "4 star",
+        "count": 13073
+      },
+      {
+        "name": "5 star",
+        "count": 29742
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=130",
+    "title": "EchoDesk",
+    "companyName": "Aurora Solutions",
+    "id": 130,
+    "description": "EchoDesk is a travel app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 243,
+    "reviews": 38670,
+    "ratingAvg": 4.43,
+    "downloads": 9259022,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1052
+      },
+      {
+        "name": "2 star",
+        "count": 1985
+      },
+      {
+        "name": "3 star",
+        "count": 346
+      },
+      {
+        "name": "4 star",
+        "count": 11066
+      },
+      {
+        "name": "5 star",
+        "count": 24221
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=131",
+    "title": "FlowMind Pro",
+    "companyName": "Summit Inc.",
+    "id": 131,
+    "description": "FlowMind Pro is a messaging app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 247,
+    "reviews": 78544,
+    "ratingAvg": 2.76,
+    "downloads": 13621110,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 28873
+      },
+      {
+        "name": "2 star",
+        "count": 7652
+      },
+      {
+        "name": "3 star",
+        "count": 16719
+      },
+      {
+        "name": "4 star",
+        "count": 4066
+      },
+      {
+        "name": "5 star",
+        "count": 21234
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=132",
+    "title": "SmartMind",
+    "companyName": "Prime Studios",
+    "id": 132,
+    "description": "SmartMind is a photo app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 25,
+    "reviews": 25513,
+    "ratingAvg": 3.9,
+    "downloads": 11821980,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1578
+      },
+      {
+        "name": "2 star",
+        "count": 2830
+      },
+      {
+        "name": "3 star",
+        "count": 3360
+      },
+      {
+        "name": "4 star",
+        "count": 6558
+      },
+      {
+        "name": "5 star",
+        "count": 11187
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=133",
+    "title": "SwiftDesk",
+    "companyName": "Serenity Studios",
+    "id": 133,
+    "description": "SwiftDesk is a navigation app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 63,
+    "reviews": 40363,
+    "ratingAvg": 4.07,
+    "downloads": 13482448,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2341
+      },
+      {
+        "name": "2 star",
+        "count": 7987
+      },
+      {
+        "name": "3 star",
+        "count": 730
+      },
+      {
+        "name": "4 star",
+        "count": 2591
+      },
+      {
+        "name": "5 star",
+        "count": 26714
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=134",
+    "title": "SwiftMind",
+    "companyName": "Trail Systems",
+    "id": 134,
+    "description": "SwiftMind is a productivity app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 75,
+    "reviews": 40602,
+    "ratingAvg": 3.98,
+    "downloads": 11185768,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 6093
+      },
+      {
+        "name": "3 star",
+        "count": 482
+      },
+      {
+        "name": "4 star",
+        "count": 21007
+      },
+      {
+        "name": "5 star",
+        "count": 12720
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=135",
+    "title": "SwiftTrack",
+    "companyName": "Prime Ltd.",
+    "id": 135,
+    "description": "SwiftTrack is a security app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 244,
+    "reviews": 19380,
+    "ratingAvg": 3.86,
+    "downloads": 1508575,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 303
+      },
+      {
+        "name": "2 star",
+        "count": 3074
+      },
+      {
+        "name": "3 star",
+        "count": 5208
+      },
+      {
+        "name": "4 star",
+        "count": 1331
+      },
+      {
+        "name": "5 star",
+        "count": 9464
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=136",
+    "title": "UrbanHelper",
+    "companyName": "Nova Solutions",
+    "id": 136,
+    "description": "UrbanHelper is a photo app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design.",
+    "size": 184,
+    "reviews": 14771,
+    "ratingAvg": 4.44,
+    "downloads": 12741215,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1103
+      },
+      {
+        "name": "2 star",
+        "count": 342
+      },
+      {
+        "name": "3 star",
+        "count": 824
+      },
+      {
+        "name": "4 star",
+        "count": 1225
+      },
+      {
+        "name": "5 star",
+        "count": 11277
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=137",
+    "title": "EchoMarket",
+    "companyName": "Green Ltd.",
+    "id": 137,
+    "description": "EchoMarket is a photo app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 245,
+    "reviews": 20122,
+    "ratingAvg": 4.05,
+    "downloads": 7304673,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 781
+      },
+      {
+        "name": "2 star",
+        "count": 2138
+      },
+      {
+        "name": "3 star",
+        "count": 2949
+      },
+      {
+        "name": "4 star",
+        "count": 3653
+      },
+      {
+        "name": "5 star",
+        "count": 10601
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=138",
+    "title": "BrightHelper Pro",
+    "companyName": "HealthSync Works",
+    "id": 138,
+    "description": "BrightHelper Pro is a security app designed to make everyday tasks easier and more enjoyable. The app emphasizes privacy and performance, delivering smooth experiences even on older devices. With real-time sync, customizable settings, and intelligent suggestions, it adapts to the way you work and play.",
+    "size": 178,
+    "reviews": 29115,
+    "ratingAvg": 4.16,
+    "downloads": 10089945,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 354
+      },
+      {
+        "name": "2 star",
+        "count": 2956
+      },
+      {
+        "name": "3 star",
+        "count": 2570
+      },
+      {
+        "name": "4 star",
+        "count": 9053
+      },
+      {
+        "name": "5 star",
+        "count": 14182
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=139",
+    "title": "VividMind",
+    "companyName": "Bright Solutions",
+    "id": 139,
+    "description": "VividMind is a education app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. The app emphasizes privacy and performance, delivering smooth experiences even on older devices.",
+    "size": 85,
+    "reviews": 12098,
+    "ratingAvg": 4.34,
+    "downloads": 3815715,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 679
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 1231
+      },
+      {
+        "name": "4 star",
+        "count": 2504
+      },
+      {
+        "name": "5 star",
+        "count": 7584
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=140",
+    "title": "NimbleSketch",
+    "companyName": "Sound Works",
+    "id": 140,
+    "description": "NimbleSketch is a design app designed to make everyday tasks easier and more enjoyable. Whether you're organizing, creating, or exploring, this app offers reliable tools and thoughtful design. It combines a clean, intuitive interface with powerful features that scale from casual users to power users.",
+    "size": 119,
+    "reviews": 69740,
+    "ratingAvg": 3.55,
+    "downloads": 14346732,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10140
+      },
+      {
+        "name": "2 star",
+        "count": 14141
+      },
+      {
+        "name": "3 star",
+        "count": 3297
+      },
+      {
+        "name": "4 star",
+        "count": 11622
+      },
+      {
+        "name": "5 star",
+        "count": 30540
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://picsum.photos/200?random=1",
+    "title": "NovaChat",
+    "companyName": "Connect Labs",
+    "id": 1,
+    "description": "NovaChat is a messaging app designed to make everyday communication easier and more enjoyable. It combines a clean, intuitive interface with powerful features like AI chat suggestions and cross-device sync. Whether you're chatting with friends or collaborating with coworkers, NovaChat offers reliable tools and thoughtful design.",
+    "size": 92,
+    "reviews": 12580,
+    "ratingAvg": 4.6,
+    "downloads": 4520000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 8130 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=2",
+    "title": "PixelStudio Pro",
+    "companyName": "Artify Co.",
+    "id": 2,
+    "description": "PixelStudio Pro is a design app built for digital artists and illustrators of all levels. It offers layer-based editing, smart brushes, and export options tailored for professionals. The app is optimized for performance, ensuring smooth drawing even on large canvases.",
+    "size": 145,
+    "reviews": 8700,
+    "ratingAvg": 4.4,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 610 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4520 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=3",
+    "title": "FitTrack Pro",
+    "companyName": "HealthSync Ltd.",
+    "id": 3,
+    "description": "FitTrack Pro is a comprehensive fitness tracking app that helps you monitor your workouts, nutrition, and sleep. It features real-time analytics, personalized recommendations, and smartwatch integration. FitTrack Pro empowers users to achieve their goals with motivation and insights backed by data.",
+    "size": 98,
+    "reviews": 21500,
+    "ratingAvg": 4.8,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 16100 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=4",
+    "title": "SoundScape",
+    "companyName": "Nova Audio",
+    "id": 4,
+    "description": "SoundScape is a music streaming platform that blends high-quality sound with smart playlist generation. Enjoy millions of tracks, podcasts, and audiobooks with offline listening and adaptive equalizer settings. The app provides an elegant and immersive listening experience across all your devices.",
+    "size": 152,
+    "reviews": 8900,
+    "ratingAvg": 4.1,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 1450 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3200 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=5",
+    "title": "MindFlow",
+    "companyName": "Serenity Apps",
+    "id": 5,
+    "description": "MindFlow is a meditation and mindfulness app designed to help users reduce stress, improve focus, and sleep better. It includes guided sessions, ambient soundscapes, and progress tracking tools. MindFlow adapts to your daily mood and schedule to promote mental wellness effortlessly.",
+    "size": 70,
+    "reviews": 5600,
+    "ratingAvg": 4.7,
+    "downloads": 2400000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 3150 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=6",
+    "title": "TaskHero",
+    "companyName": "Boostify Inc.",
+    "id": 6,
+    "description": "TaskHero is a productivity app that gamifies your daily routine. Earn rewards as you complete tasks, track progress visually, and stay motivated with streak goals. Designed for teams and individuals, TaskHero turns to-do lists into exciting challenges.",
+    "size": 94,
+    "reviews": 9800,
+    "ratingAvg": 4.5,
+    "downloads": 4300000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5550 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=7",
+    "title": "TravelGo",
+    "companyName": "WanderWorks",
+    "id": 7,
+    "description": "TravelGo is an all-in-one travel planner that lets you discover destinations, find hidden gems, and manage bookings seamlessly. It includes itinerary sharing, offline maps, and budget tracking tools for stress-free adventures. Perfect for solo travelers and groups alike.",
+    "size": 130,
+    "reviews": 7400,
+    "ratingAvg": 4.3,
+    "downloads": 3700000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2950 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=8",
+    "title": "Learnly",
+    "companyName": "EduVerse",
+    "id": 8,
+    "description": "Learnly is an interactive learning platform offering short courses, practice quizzes, and certifications from experts. The app supports multiple languages, offline lessons, and AI-based progress insights. Whether you're learning for career growth or curiosity, Learnly keeps it engaging.",
+    "size": 112,
+    "reviews": 10200,
+    "ratingAvg": 4.6,
+    "downloads": 5600000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 5900 }
+    ]
+  }
+]
