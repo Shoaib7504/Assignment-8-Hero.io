@@ -7,7 +7,7 @@ import HomeCards from './HomeCards';
 const Home = () => {
 
     const apps = useLoaderData()
-    console.log(apps);
+    // console.log(apps);
 
     return (
         <div className=''>

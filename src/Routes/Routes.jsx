@@ -26,7 +26,8 @@ import Errorpage from '../Components/Errorpage/Errorpage';
     },
     {
       path:'apps',
-      Component: Apps
+      Component: Apps,
+      loader: () =>fetch('./allapps.json')
 
     },
     {
