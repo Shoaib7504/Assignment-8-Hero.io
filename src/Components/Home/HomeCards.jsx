@@ -1,6 +1,6 @@
 import React from 'react';
 import icon from '../../assets/icon-ratings.png'
-import icon1 from '../../assets/icon-review.png'
+import icon1 from '../../assets/icon-downloads.png'
 
 const HomeCards = ({ app }) => {
     //  console.log(app);

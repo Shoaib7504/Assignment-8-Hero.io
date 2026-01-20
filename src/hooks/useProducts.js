@@ -9,7 +9,7 @@
 
 //     useEffect( () => {
 //             setLoading(true)
-//             axios('./allapps.json')
+//             axios('../allapps.json')
 //             .then(data => console.log(data);
 //             )
 //                 .then(data => setProducts(data.data))
