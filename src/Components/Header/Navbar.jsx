@@ -46,7 +46,7 @@ const Navbar = () => {
                 <div className="navbar-end">
 
                     <NavLink to='https://github.com/Shoaib7504'>
-                        <a className="btn text-white bg-gradient-to-r from-[#632ee3] to-[#9f62f2]"><span><FaGithub /></span> Contribute</a>
+                        <button className="btn text-white bg-gradient-to-r from-[#632ee3] to-[#9f62f2]"><span><FaGithub /></span> Contribute</button>
                     </NavLink>
                 </div>
             </div>

@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from '../Header/Navbar';
 import Footer from '../Footer/Footer';
 import { useRouteError } from 'react-router';
+import Error from './Error';
 
 const Errorpage = () => {
     const error=useRouteError()
@@ -9,7 +10,7 @@ const Errorpage = () => {
         <div>
             <Navbar></Navbar>
           <div>{error.message}</div>
-            <h1>404 this is error page</h1>
+            <Error></Error>
             <Footer></Footer>
 
             
